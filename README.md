@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋 I'm Vu Ngoc Duong
----
 
 ### 🧩 GitHub Stats
 
