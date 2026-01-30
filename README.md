@@ -1,11 +1,4 @@
-<h2 align="left">Hi 👋 I'm Vu Ngoc Duong — Aspiring Full Stack Developer</h2>
-
-🎓 Software Engineering Student passionate about building scalable web applications  
-🔧 Backend: Java, Spring Boot, Node.js
-🎨 Frontend: React, Angular, TypeScript  
-🗄️ Database: MongoDB, MySQL
-🌱 Currently exploring: RESTful APIs, Clean Architecture, System Design  
-
+<h2 align="left">Hi 👋 I'm Vu Ngoc Duong
 ---
 
 ### 🧩 GitHub Stats
